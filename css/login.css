@@ -1,0 +1,135 @@
+#outer{
+    height: 1000px;
+    width: 100%;
+    border: 1px solid;
+
+}
+ 
+#header{
+    height: 200px;
+    width: 100%;
+    //background-color: aqua;
+   
+}
+
+
+
+#h1{
+    height: 200px;
+    width: 40%;
+   // background-color: bisque;
+    float: left
+}
+#h2{
+    height: 200px;
+    width: 60%;
+    //background-color: blueviolet;
+    float: right
+}
+#h2a{
+    height: 80px;
+    width: 100%;
+//   background-color: red;
+}
+#h2b{
+    height: 80px;
+    width: 100%;
+  //  background-color: brown;
+    border: 1px solid white;
+}
+#parent{
+    height: 650px;
+    background-image: url(../images/images.jpg);
+    background-size:cover;
+    width: 100%;
+    border: .1px solid black;
+ //background-color: aquamarine;
+   // margin-top: -100px;
+}
+#box{
+    height: 450px;
+    width: 30%;
+    margin: 10% 0% 0% 35%;
+    background-color: black;
+    opacity: .8;
+    box-shadow: 10px 10px 20px 10px;
+    border: 5px solid black;
+    
+    
+}
+#image{
+    margin-left: 25%;
+    margin-top: -25%
+}
+#set h1{
+    margin-left: 30%;
+    color: deepskyblue;
+}
+#set p{
+    margin-left: 15%;
+    font-size: 20px;
+    color: deepskyblue;
+}
+#set input{
+    font-size: 18px;
+    border-bottom: 3px solid white;
+    border-left: 3px solid black;
+     border-right: 3px solid black;
+    border-top: 3px solid black;
+    
+    
+    text-decoration: none;
+    margin-left: 15%;
+    background-color: black;
+}
+#set a{
+    margin-left: 15%;
+    text-decoration: none;
+    color: deepskyblue
+}
+
+#footer{
+    height: 300px;
+    width: 100%;
+    background-color: black;
+    color: white;
+    font-family: sans-serif;
+}
+
+#f1{
+    height: 300px;
+    width: 20%;
+    //background-color: aqua;
+    float: left;
+}
+#f2{
+    height: 300px;
+    width: 15%;
+    //background-color: red;
+    float: left;
+}
+#f3{
+    height: 300px;
+    width: 15%;
+    //background-color: pink;
+    float: left;
+}
+#f4{
+    height: 300px;
+    width: 20%;
+    //background-color: aqua;
+    float: left;
+}
+#f5{
+    height: 300px;
+    width: 30%;
+    //background-color:beige;
+    float: left;
+}
+#f1{
+    height: 300px;
+    width: 20%;
+    //background-color: aqua;
+    float: left;
+}
+ 

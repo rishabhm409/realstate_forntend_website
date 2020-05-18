@@ -1,0 +1,129 @@
+#outer{
+    height: auto;
+    width: 100%;
+    //border: 1px solid;
+
+}
+ 
+#header{
+    height: 200px;
+    width: 100%;
+    //background-color: aqua;
+   
+}
+
+
+
+#h1{
+    height: 200px;
+    width: 40%;
+   // background-color: bisque;
+    float: left
+}
+#h2{
+    height: 200px;
+    width: 60%;
+    //background-color: blueviolet;
+    float: right
+}
+#h2a{
+    height: 80px;
+    width: 100%;
+//   background-color: red;
+}
+#h2b{
+    height: 80px;
+    width: 100%;
+  //  background-color: brown;
+}
+
+#parent{
+    height: 1000px;
+    width: 100%;
+//    background-color: aqua;
+    
+}
+#p1{
+    height: 1000px;
+    width: 80%;
+  //  background-color: bisque;
+    margin-left: 20px;
+}
+#p1 form input{
+    padding: 0px 500px 10px 0px;
+    font-size: 16px;
+    
+}
+#p1 form textarea{
+    padding: 0px 500px 10px 0px;
+    font-size: 16px;
+    
+}
+#p1 form select{
+    padding: 0px 630px 10px 0px;
+    font-size: 16px;
+}
+#p1 p{
+    font-size: 18px;
+}
+
+#footer{
+    height: 300px;
+    width: 100%;
+    background-color: black;
+    color: white;
+    font-family: sans-serif;
+}
+
+#f1{
+    height: 300px;
+    width: 20%;
+    //background-color: aqua;
+    float: left;
+}
+#f2{
+    height: 300px;
+    width: 15%;
+    //background-color: red;
+    float: left;
+}
+#f3{
+    height: 300px;
+    width: 15%;
+    //background-color: pink;
+    float: left;
+}
+#f4{
+    height: 300px;
+    width: 20%;
+    //background-color: aqua;
+    float: left;
+}
+#f5{
+    height: 300px;
+    width: 30%;
+    //background-color:beige;
+    float: left;
+}
+#f1{
+    height: 300px;
+    width: 20%;
+    //background-color: aqua;
+    float: left;
+}
+#f2 span {
+    font-size: 20px;
+    
+}
+#f3 span {
+    font-size: 20px;
+}
+#f4 span {
+    font-size: 20px;
+}
+#f5 span {
+    font-size: 20px;
+}
+#f1 span {
+    font-size: 20px;
+}

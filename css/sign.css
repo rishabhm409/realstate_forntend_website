@@ -1,0 +1,114 @@
+#outer{
+    height: 1500px;
+    width: 100%;
+    border: 1px solid;
+
+}
+ 
+#header{
+    height: 200px;
+    width: 100%;
+    //background-color: aqua;
+   
+}
+
+
+
+#h1{
+    height: 200px;
+    width: 40%;
+   // background-color: bisque;
+    float: left
+}
+#h2{
+    height: 200px;
+    width: 60%;
+    //background-color: blueviolet;
+    float: right
+}
+#h2a{
+    height: 80px;
+    width: 100%;
+//   background-color: red;
+}
+#h2b{
+    height: 80px;
+    width: 100%;
+  //  background-color: brown;
+}
+
+#parent{
+    height: 600px;
+    width: 100%;
+  //  background-color: aqua;
+    border: 1px solid white;
+}
+#box{
+    height: 450px;
+    margin: 100px auto;
+    width: 40%;
+    //background-color: bisque;
+    border: 1px solid black;
+    box-shadow: 10px 10px 20px 0px;
+}
+#box form input{
+    padding: 6px 300px 0px 0px;
+    font-size: 16px;
+    border: 2px solid;
+}
+#box h1{
+    margin-left: 20%;
+}
+#box form{
+    margin-left: 20;
+}
+#parent2{
+    height: 500px;
+    width: 100%;
+    //background-color: blue;
+}
+#footer{
+    height: 300px;
+    width: 100%;
+    background-color: black;
+    color: white;
+    font-family: sans-serif;
+}
+
+#f1{
+    height: 300px;
+    width: 20%;
+    //background-color: aqua;
+    float: left;
+}
+#f2{
+    height: 300px;
+    width: 15%;
+    //background-color: red;
+    float: left;
+}
+#f3{
+    height: 300px;
+    width: 15%;
+    //background-color: pink;
+    float: left;
+}
+#f4{
+    height: 300px;
+    width: 20%;
+    //background-color: aqua;
+    float: left;
+}
+#f5{
+    height: 300px;
+    width: 30%;
+    //background-color:beige;
+    float: left;
+}
+#f1{
+    height: 300px;
+    width: 20%;
+    //background-color: aqua;
+    float: left;
+}
+

@@ -1,0 +1,38 @@
+#outer{
+    height: 1000px;
+    width: 100%;
+    border: 1px solid;
+
+}
+ 
+#header{
+    height: 200px;
+    width: 100%;
+    //background-color: aqua;
+   
+}
+
+
+
+#h1{
+    height: 200px;
+    width: 40%;
+   // background-color: bisque;
+    float: left
+}
+#h2{
+    height: 200px;
+    width: 60%;
+    //background-color: blueviolet;
+    float: right
+}
+#h2a{
+    height: 80px;
+    width: 100%;
+//   background-color: red;
+}
+#h2b{
+    height: 80px;
+    width: 100%;
+  //  background-color: brown;
+}
